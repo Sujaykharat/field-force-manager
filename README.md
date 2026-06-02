@@ -108,18 +108,31 @@ flutter build apk --release
 The following sections illustrate the core functionality of the Field Force Manager application.
 
 ### Authentication and Dashboard
-* Login Screen: `screenshots/login_screen.png`
-* Dashboard: `screenshots/dashboard.png`
-* Analytics Dashboard: `screenshots/analytics.png`
+#### Login Screen
+![Login Screen](screenshots/loginscreen.jpeg)
+
+#### Dashboard
+![Dashboard](screenshots/Dashboard.jpeg)
+
+#### Analytics Dashboard
+![Analytics Dashboard](screenshots/Dashboard2.jpeg)
 
 ### Task and Visit Management
-* Task List: `screenshots/task_list.png`
-* Task Details: `screenshots/task_details.png`
-* Visit Tracking: `screenshots/visit_tracking.png`
+#### Task List
+![Task List](screenshots/TaskList.jpeg)
+
+#### Task Details and Timeline
+![Task Details](screenshots/TaskDetails_ActivityTimeline.jpeg)
+
+#### Manage Users (Admin Only)
+![Manage Users](screenshots/ManageUser.jpeg)
 
 ### Insights and History
-* AI Insights: `screenshots/ai_insights.png`
-* Activity Timeline: `screenshots/activity_timeline.png`
+#### AI Analysis
+![AI Insights](screenshots/MockAIanalysis.jpeg)
+
+#### User Profile
+![User Profile](screenshots/Profile.jpeg)
 
 ## Assignment Requirements Mapping
 
